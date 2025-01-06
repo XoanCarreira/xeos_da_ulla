@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>xeos</title>
+	<title>xeos &#8211; Xeos da Ulla</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
-	<description></description>
+	<description>Fábrica y distribuidora de hielo en Galicia</description>
 	<lastBuildDate>Wed, 01 Jan 2025 14:09:47 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2025/01/Group-4.png</url>
+	<title>xeos &#8211; Xeos da Ulla</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Crafting Captivating Headlines: Your awesome post title goes here</title>
 		<link>./../../../post-1/index.html</link>
